@@ -1,7 +1,5 @@
 /* General Reset */
 * {
-    margin: 0;
-    padding: 0;
     box-sizing: border-box;
 }
 
@@ -57,6 +55,12 @@ nav a:hover {
 
 #about {
     background-color: #ededed;
+}
+
+#projects {
+    width: 50%;
+    margin: 0 auto; /* Centers the section */
+    text-align: center;
 }
 
 .container {  
